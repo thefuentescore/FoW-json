@@ -1,1 +1,34 @@
-["The Crimson Moon Fairy Tale","The Castle of Heaven and the Two Towers","The Moon Priestess Returns","The Millennia of Ages","Vingolf series - Engage Knights","Faria, the Sacred Queen/Melgis, the Flame King","The Seven Kings of the Lands","The Twilight Wanderer","The Moonlit Savior","Battle for Attoractia","Vingolf 2 - Valkyria Chronicles","Starter Deck Lapis - Light","Curse of the Frozen Casket","Starter Deck Lapis - Wind"]
+[
+    {
+        "cluster": "Grimm",
+        "id": 1,
+        "sets": [
+            "The Crimson Moon Fairy Tale",
+            "The Castle of Heaven and the Two Towers",
+            "The Moon Priestess Returns",
+            "The Millennia of Ages",
+            "Vingolf series - Engage Knights"
+        ]
+    },
+    {
+        "cluster": "Alice",
+        "id": 2,
+        "sets": [
+            "Faria, the Sacred Queen/Melgis, the Flame King",
+            "The Seven Kings of the Lands",
+            "The Twilight Wanderer",
+            "The Moonlit Savior",
+            "Battle for Attoractia",
+            "Vingolf 2 - Valkyria Chronicles"
+        ]
+    },
+    {
+        "cluster": "Lapis",
+        "id": 3,
+        "sets": [
+            "Starter Deck Lapis - Light",
+            "Curse of the Frozen Casket",
+            "Starter Deck Lapis - Wind"
+        ]
+    }
+]
