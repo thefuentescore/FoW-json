@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Origin - Valhalla",
+    "clusters": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "banlist": []
+  },
+  {
+    "name": "Origin - Bifrost",
+    "clusters": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "banlist": []
+  },
+  {
+    "name": "Wanderer",
+    "clusters": [
+      1,
+      2,
+      3
+    ],
+    "banlist": [
+      "Reflect, Child of Potential",
+      "Refrain, Child of Convergence",
+      "Laevateinn, the Demon Sword",
+      "Ruler's Memoria",
+      "Whisper from the Abyss",
+      "Seer of the Blue Moon",
+      "Kaguya, Princess of the Moon",
+      "Tell a Fairy Tale"
+    ]
+  },
+  {
+    "name": "New Frontiers",
+    "clusters": [
+      2,
+      3
+    ],
+    "banlist": [
+      "Reflect, Child of Potential",
+      "Refrain, Child of Convergence"
+    ]
+  },
+  {
+    "name": "Grimm Cluster",
+    "clusters": [
+      1
+    ],
+    "banlist": []
+  },
+  {
+    "name": "Alice Cluster",
+    "clusters": [
+      2
+    ],
+    "banlist": []
+  },
+  {
+    "name": "Lapis Cluster",
+    "clusters": [
+      3
+    ],
+    "banlist": []
+  }
+]
