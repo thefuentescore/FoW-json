@@ -1,6 +1,6 @@
 [
   {
-    "code": 0,
+    "id": 0,
     "name": "Valhalla Cluster",
     "sets": [
       "Starter",
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "code": 1,
+    "id": 1,
     "name": "Grimm Cluster",
     "sets": [
       "The Crimson Moon Fairy Tale",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "code": 2,
+    "id": 2,
     "name": "Alice Cluster",
     "sets": [
       "Faria, the Sacred Queen/Melgis, the Flame King",
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "code": 3,
+    "id": 3,
     "name": "Lapis Cluster",
     "sets": [
       "Starter Deck Lapis - Light",
