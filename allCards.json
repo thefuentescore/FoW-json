@@ -6,7 +6,7 @@
     "racesOrTraits": [
       "Knight"
     ],
-    "text": "J-Activate WW\n2\nContinuous: Resonator targeted by an addition gains [+200/+0].\nActivate. T: Target Resonator gains [+400/+400] until end of turn.",
+    "text": "J-Activate WW2\nContinuous: Resonator targeted by an addition gains [+200/+0].\nActivate. T: Target Resonator gains [+400/+400] until end of turn.",
     "set": "Starter",
     "code": "S-001 S",
     "rarity": "S",
@@ -70,7 +70,7 @@
     "racesOrTraits": [
       "Samurai"
     ],
-    "text": "J-Activate Pay RR\n2 and discard a card from your hand.\nContinuous: Your resonators with total cost two or less can attack in the turn it's summoned.\nActivate. Discard a card from your hand: Target resonator gains Explode until end of turn. This ability can only be used in battle phase.",
+    "text": "J-Activate Pay RR2 and discard a card from your hand.\nContinuous: Your resonators with total cost two or less can attack in the turn it's summoned.\nActivate. Discard a card from your hand: Target resonator gains Explode until end of turn. This ability can only be used in battle phase.",
     "set": "Starter",
     "code": "S-004 S",
     "rarity": "S",
@@ -134,7 +134,7 @@
     "racesOrTraits": [
       "Wizard"
     ],
-    "text": "J-Activate Pay UU\n2\nActivate. 2: You may activate this in a draw phase. Discard the card you just drew and draw a card.\nActivate. T: Target resonator cannot be targeted by spells or abilities until end of turn.",
+    "text": "J-Activate Pay UU2\nActivate. 2: You may activate this in a draw phase. Discard the card you just drew and draw a card.\nActivate. T: Target resonator cannot be targeted by spells or abilities until end of turn.",
     "set": "Starter",
     "code": "S-007 S",
     "rarity": "S",
@@ -212,7 +212,7 @@
     "racesOrTraits": [
       "Spirit"
     ],
-    "text": "Enter: You may search up to three cards in your main deck. Then shuffle your main deck and put the cards you searched on top of your main deck in any order.\nActivate. Pay GG\n1: Reveal top of your main deck. You may summon it if it's a [Race:Elf] card.",
+    "text": "Enter: You may search up to three cards in your main deck. Then shuffle your main deck and put the cards you searched on top of your main deck in any order.\nActivate. Pay GG1: Reveal top of your main deck. You may summon it if it's a [Race:Elf] card.",
     "set": "Starter",
     "code": "S-010 S",
     "rarity": "S",
@@ -262,7 +262,7 @@
     "racesOrTraits": [
       "Warrior"
     ],
-    "text": "J-Activate Pay BB\n1 while you have 10 or more cards in your graveyard.\nActivate. T: Choose a resonator in your graveyard. Return it to your main deck and shuffle it.\nContinuous: Whenever a resonator is put into a graveyard from a field, this card deals 100 damage to the controller of the resonator.",
+    "text": "J-Activate Pay BB1 while you have 10 or more cards in your graveyard.\nActivate. T: Choose a resonator in your graveyard. Return it to your main deck and shuffle it.\nContinuous: Whenever a resonator is put into a graveyard from a field, this card deals 100 damage to the controller of the resonator.",
     "set": "Starter",
     "code": "S-013 S",
     "rarity": "S",
@@ -356,7 +356,7 @@
     "racesOrTraits": [
       "King"
     ],
-    "text": "J-Activate Pay WWW\n2\nContinuous: Your [Race:Knight of the Round Table] resonators gain: \"\nActivate. T: Produce W.\".\nActivate. T: Activate only at the beginning of your opponent's battle phase. Recover target [Race:Knight of the Round Table] resonator. It gains [+0/+500] until end of turn.",
+    "text": "J-Activate Pay WWW2\nContinuous: Your [Race:Knight of the Round Table] resonators gain: \"\nActivate. T: Produce W.\".\nActivate. T: Activate only at the beginning of your opponent's battle phase. Recover target [Race:Knight of the Round Table] resonator. It gains [+0/+500] until end of turn.",
     "set": "The Dawn of Valhalla",
     "code": "1-002 R",
     "rarity": "R",
@@ -1157,7 +1157,7 @@
     "racesOrTraits": [
       "Samurai"
     ],
-    "text": "J-Activate Pay RR\n2\nActivate. Discard a card from your hand: Target resonator gains Explode until end of turn.",
+    "text": "J-Activate Pay RR2\nActivate. Discard a card from your hand: Target resonator gains Explode until end of turn.",
     "set": "The Dawn of Valhalla",
     "code": "1-051 U",
     "rarity": "U",
@@ -1273,7 +1273,7 @@
     "racesOrTraits": [
       "Samurai"
     ],
-    "text": "Activate. Pay R\n2,\nT: Destroy target resonator with Flying.",
+    "text": "Activate. Pay R2,\nT: Destroy target resonator with Flying.",
     "set": "The Dawn of Valhalla",
     "code": "1-057 U",
     "rarity": "U",
@@ -1511,7 +1511,7 @@
     "racesOrTraits": [
       "Divine Beast"
     ],
-    "text": "Flying\nContinuous: When this card put into a graveyard from a field, you may return it to owner's hand.\nActivate. Pay RR\n1,\nT banish this card: This card deals 500 damage to target resonator or player.",
+    "text": "Flying\nContinuous: When this card put into a graveyard from a field, you may return it to owner's hand.\nActivate. Pay RR1,\nT banish this card: This card deals 500 damage to target resonator or player.",
     "set": "The Dawn of Valhalla",
     "code": "1-071 R",
     "rarity": "R",
@@ -1868,7 +1868,7 @@
     "racesOrTraits": [
       "Mermaid"
     ],
-    "text": "J-Activate Banish two cards in your chant-standby area.\nActivate. Pay U\n3,\nT: Gain control of target resonator until end of turn.",
+    "text": "J-Activate Banish two cards in your chant-standby area.\nActivate. Pay U3,\nT: Gain control of target resonator until end of turn.",
     "set": "The Dawn of Valhalla",
     "code": "1-097 R",
     "rarity": "R",
@@ -1882,7 +1882,7 @@
     "racesOrTraits": [
       "Deity"
     ],
-    "text": "Enter: You may search for a \"Rahab, the Emperor Dragon of Riptide\" from your main deck or your hand and put it into your field. This triggers Enter: ability of that card. Then shuffle your main deck.\nActivate. Pay 2: This card cannot be attacked until end of turn.\nActivate. Pay U\n2,\nT: Gain control of target resonator until end of turn.",
+    "text": "Enter: You may search for a \"Rahab, the Emperor Dragon of Riptide\" from your main deck or your hand and put it into your field. This triggers Enter: ability of that card. Then shuffle your main deck.\nActivate. Pay 2: This card cannot be attacked until end of turn.\nActivate. Pay U2,\nT: Gain control of target resonator until end of turn.",
     "set": "The Dawn of Valhalla",
     "code": "1-097 R",
     "rarity": "R",
@@ -2045,7 +2045,7 @@
     "racesOrTraits": [
       "Mermaid"
     ],
-    "text": "Continuous: Your [Race:Mermaid] resonators gain [+200/+200].\nActivate. Pay U\n4: Target player draws a card from his or her main deck.",
+    "text": "Continuous: Your [Race:Mermaid] resonators gain [+200/+200].\nActivate. Pay U4: Target player draws a card from his or her main deck.",
     "set": "The Dawn of Valhalla",
     "code": "1-106 R",
     "rarity": "R",
@@ -2802,7 +2802,7 @@
     "racesOrTraits": [
       "Spirit"
     ],
-    "text": "Break: Put this card into your field.\nActivate. Pay G\n1, banish this card: Search for a magic stone from your magic stone deck and put it into your magic stone area rested. Then shuffle your magic stone deck.",
+    "text": "Break: Put this card into your field.\nActivate. Pay G1, banish this card: Search for a magic stone from your magic stone deck and put it into your magic stone area rested. Then shuffle your magic stone deck.",
     "set": "The Dawn of Valhalla",
     "code": "1-154 U",
     "rarity": "U",
@@ -2996,7 +2996,7 @@
     "racesOrTraits": [
       "Wizard"
     ],
-    "text": "Enter: Destroy target resonator.\nActivate. Pay BB\n3,\nT: Destroy target resonator.\nActivate. Pay B: This card deals 100 damage to each resonator and other J-Rulers.",
+    "text": "Enter: Destroy target resonator.\nActivate. Pay BB3,\nT: Destroy target resonator.\nActivate. Pay B: This card deals 100 damage to each resonator and other J-Rulers.",
     "set": "The Dawn of Valhalla",
     "code": "1-167 U",
     "rarity": "U",
@@ -3582,7 +3582,7 @@
     "racesOrTraits": [
       "Knight of the Round Table"
     ],
-    "text": "Activate. Pay WW: Search for a \"Sleeping Lion\" from your main deck and put it into your field. Then shuffle your main deck.\nActivate. Pay WW\n3: Search for a [Race:Lion] resonator with total cost 6 or less from your main deck and put it into your field. Then shuffle your main deck.",
+    "text": "Activate. Pay WW: Search for a \"Sleeping Lion\" from your main deck and put it into your field. Then shuffle your main deck.\nActivate. Pay WW3: Search for a [Race:Lion] resonator with total cost 6 or less from your main deck and put it into your field. Then shuffle your main deck.",
     "set": "The War of Valhalla",
     "code": "2-003 R",
     "rarity": "R",
@@ -4165,7 +4165,7 @@
     "racesOrTraits": [
       "Wizard"
     ],
-    "text": "Activate. Pay U\n1, discard a card from your hand: Return target resonator to its owner's hand.\nActivate. Pay UU: Draw a card from your main deck. Then discard a card from your hand.",
+    "text": "Activate. Pay U1, discard a card from your hand: Return target resonator to its owner's hand.\nActivate. Pay UU: Draw a card from your main deck. Then discard a card from your hand.",
     "set": "The War of Valhalla",
     "code": "2-040 U",
     "rarity": "U",
@@ -4182,7 +4182,7 @@
     "racesOrTraits": [
       "Deity"
     ],
-    "text": "Continuous: At the end of turn, destroy all resonators in your field that are not named \"Poseidon, the Great Emperor God of Oceans\", then discard two card from your hand.\nActivate. Banish four cards in your lifebreak area: Return all resonators in your opponent's field to the bottom of his or her main deck.\nActivate. Pay U\n3: Rest all resonators that are not named \"Poseidon, the Great Emperor God of Oceans\".",
+    "text": "Continuous: At the end of turn, destroy all resonators in your field that are not named \"Poseidon, the Great Emperor God of Oceans\", then discard two card from your hand.\nActivate. Banish four cards in your lifebreak area: Return all resonators in your opponent's field to the bottom of his or her main deck.\nActivate. Pay U3: Rest all resonators that are not named \"Poseidon, the Great Emperor God of Oceans\".",
     "set": "The War of Valhalla",
     "code": "2-041 SR",
     "rarity": "SR",
@@ -4441,7 +4441,7 @@
     "attribute": "Water",
     "type": "Spell:Chant-Standby",
     "racesOrTraits": [],
-    "text": "Break: Gain control of target resonator until the end of turn.\nTrigger When an opponent's resonator is summoned, pay UU\n3: Gain control of target resonator that was just summoned.",
+    "text": "Break: Gain control of target resonator until the end of turn.\nTrigger When an opponent's resonator is summoned, pay UU3: Gain control of target resonator that was just summoned.",
     "set": "The War of Valhalla",
     "code": "2-058 U",
     "rarity": "U",
@@ -4869,7 +4869,7 @@
     "racesOrTraits": [
       "Elf"
     ],
-    "text": "Activate. G\n1\nT: Destroy target resonator with Flying.",
+    "text": "Activate. G1\nT: Destroy target resonator with Flying.",
     "set": "The War of Valhalla",
     "code": "2-082 C",
     "rarity": "C",
@@ -5261,7 +5261,7 @@
     "racesOrTraits": [
       "Demon"
     ],
-    "text": "Flying\nEnter: Destroy all resonators. Then put three resonators in your graveyard into your field. If you cannot choose three, you cannot put them.\nActivate. Pay B\n2, banish two resonators in your field: Put a resonator in your graveyard into your field. It can attack this turn.",
+    "text": "Flying\nEnter: Destroy all resonators. Then put three resonators in your graveyard into your field. If you cannot choose three, you cannot put them.\nActivate. Pay B2, banish two resonators in your field: Put a resonator in your graveyard into your field. It can attack this turn.",
     "set": "The War of Valhalla",
     "code": "2-108 R",
     "rarity": "R",
@@ -5478,7 +5478,7 @@
     "racesOrTraits": [
       "Ghost"
     ],
-    "text": "Break: Put this card into your field.\nActivate. Pay B\n1: When this card gets destroyed by battle damage, put it into your field rested.",
+    "text": "Break: Put this card into your field.\nActivate. Pay B1: When this card gets destroyed by battle damage, put it into your field rested.",
     "set": "The War of Valhalla",
     "code": "2-120 C",
     "rarity": "C",
@@ -6057,7 +6057,7 @@
     "racesOrTraits": [
       "Monk"
     ],
-    "text": "J-Activate Pay WW\n2\nActivate. T: Look at the top three cards of your magic stone deck, choose a light magic stone from among them and put it into your magic stone area. Put the rest on the bottom of your magic stone deck in any order.",
+    "text": "J-Activate Pay WW2\nActivate. T: Look at the top three cards of your magic stone deck, choose a light magic stone from among them and put it into your magic stone area. Put the rest on the bottom of your magic stone deck in any order.",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-001 U",
     "rarity": "U",
@@ -6088,7 +6088,7 @@
     "racesOrTraits": [
       "Giant"
     ],
-    "text": "Break: Put this card into your hand.\nWhen this card is a summon spell players cannot chase cards with total cost 4 or less.\nContinuous: This card cannot be targeted by spells with total cost 4 or less or abilities on a card with total cost 4 or less.\nContinuous: At the end of your recovery phase, pay WW\n2 or put this card on the bottom of your main deck.\nContinuous: When this card deals battle damage to a player, you gain life equal to half of that damage (roud up to the nearest hundred).",
+    "text": "Break: Put this card into your hand.\nWhen this card is a summon spell players cannot chase cards with total cost 4 or less.\nContinuous: This card cannot be targeted by spells with total cost 4 or less or abilities on a card with total cost 4 or less.\nContinuous: At the end of your recovery phase, pay WW2 or put this card on the bottom of your main deck.\nContinuous: When this card deals battle damage to a player, you gain life equal to half of that damage (roud up to the nearest hundred).",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-002 SR",
     "rarity": "SR",
@@ -6190,7 +6190,7 @@
     "racesOrTraits": [
       "Wizard"
     ],
-    "text": "Activate. Pay W\n1,\nT: Recover target resonator or J-ruler in your field. This ability can only be activated once each turn.",
+    "text": "Activate. Pay W1,\nT: Recover target resonator or J-ruler in your field. This ability can only be activated once each turn.",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-008 R",
     "rarity": "R",
@@ -6438,7 +6438,7 @@
     "racesOrTraits": [
       "Clown"
     ],
-    "text": "J-Activate Pay RR\n2\nActivate. T: Look at the top three cards of your magic stone deck, choose a fire magic stone from among them and put it into your magic stone area. Put the rest on the bottom of your magic stone deck in any order.",
+    "text": "J-Activate Pay RR2\nActivate. T: Look at the top three cards of your magic stone deck, choose a fire magic stone from among them and put it into your magic stone area. Put the rest on the bottom of your magic stone deck in any order.",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-025 U",
     "rarity": "U",
@@ -6469,7 +6469,7 @@
     "racesOrTraits": [
       "Giant"
     ],
-    "text": "Break: Put this card into your hand.\nWhen this card is a summon spell players cannot chase cards with total cost 4 or less.\nContinuous: This card cannot be targeted by spells with total cost 4 or less or abilities on a card with total cost 4 or less.\nContinuous: At the end of your recovery phase, pay RR\n2 or put this card to the bottom of your main deck.\nContinuous: Whenever you attack with this card, it deals 800 damage to target resonator, if it deals more damage than DEF of the resonator, this card deals number of damage more than the DEF to the controller of that resonator.",
+    "text": "Break: Put this card into your hand.\nWhen this card is a summon spell players cannot chase cards with total cost 4 or less.\nContinuous: This card cannot be targeted by spells with total cost 4 or less or abilities on a card with total cost 4 or less.\nContinuous: At the end of your recovery phase, pay RR2 or put this card to the bottom of your main deck.\nContinuous: Whenever you attack with this card, it deals 800 damage to target resonator, if it deals more damage than DEF of the resonator, this card deals number of damage more than the DEF to the controller of that resonator.",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-026 SR",
     "rarity": "SR",
@@ -6639,7 +6639,7 @@
     "racesOrTraits": [
       "Dragon"
     ],
-    "text": "Break: Target resonator gains [+400/+0] until end of turn.\nEnter: You may put up to three [Addition:Resonator] cards from your hand and/or your graveyard on this card.\nActivate. Pay R\n1: Banish an [Addition:Resonator] on this card. If you do, this card deals 300 damage to target resonator or player.",
+    "text": "Break: Target resonator gains [+400/+0] until end of turn.\nEnter: You may put up to three [Addition:Resonator] cards from your hand and/or your graveyard on this card.\nActivate. Pay R1: Banish an [Addition:Resonator] on this card. If you do, this card deals 300 damage to target resonator or player.",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-036 R",
     "rarity": "R",
@@ -6819,7 +6819,7 @@
     "racesOrTraits": [
       "Mage"
     ],
-    "text": "Activate. T: Look at the top three cards of your magic stone deck, choose a water magic stone from among them and put it into your magic stone area. Put the rest on the bottom of your magic stone deck in any order.\nJ-Activate Pay UU\n2",
+    "text": "Activate. T: Look at the top three cards of your magic stone deck, choose a water magic stone from among them and put it into your magic stone area. Put the rest on the bottom of your magic stone deck in any order.\nJ-Activate Pay UU2",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-049 U",
     "rarity": "U",
@@ -6850,7 +6850,7 @@
     "racesOrTraits": [
       "Giant"
     ],
-    "text": "Break: Put this card into your hand.\nWhile this card is a summon spell, players cannot chase cards with total cost 4 or less.\nContinuous: This card cannot be targeted by spells with total cost 4 or less or abilities on a card with total cost 4 or less.\nContinuous: At the end of your recovery phase, pay UU\n2 or put this card on the bottom of your main deck.\nContinuous: When this card attacks, rest two target resonators in your opponent's field, They cannot recover in their controller's next recovery phase.",
+    "text": "Break: Put this card into your hand.\nWhile this card is a summon spell, players cannot chase cards with total cost 4 or less.\nContinuous: This card cannot be targeted by spells with total cost 4 or less or abilities on a card with total cost 4 or less.\nContinuous: At the end of your recovery phase, pay UU2 or put this card on the bottom of your main deck.\nContinuous: When this card attacks, rest two target resonators in your opponent's field, They cannot recover in their controller's next recovery phase.",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-050 SR",
     "rarity": "SR",
@@ -7186,7 +7186,7 @@
     "attribute": "Water",
     "type": "Spell:Chant-Standby",
     "racesOrTraits": [],
-    "text": "Break: Return target resonator with 400 or less DEF to its owner's hand.\nTrigger During your turn, pay UU\n1: Return all resonators and all cards in all chant-standby areas to their owner's hands.",
+    "text": "Break: Return target resonator with 400 or less DEF to its owner's hand.\nTrigger During your turn, pay UU1: Return all resonators and all cards in all chant-standby areas to their owner's hands.",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-072 R",
     "rarity": "R",
@@ -7200,7 +7200,7 @@
     "racesOrTraits": [
       "Mage"
     ],
-    "text": "J-Activate Pay G\n3.\nActivate. Pay G Choose target card in a graveyard and put it on the bottom of its owner's main deck.",
+    "text": "J-Activate Pay G3.\nActivate. Pay G Choose target card in a graveyard and put it on the bottom of its owner's main deck.",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-073 R",
     "rarity": "R",
@@ -7230,7 +7230,7 @@
     "racesOrTraits": [
       "Swordsman"
     ],
-    "text": "Activate. T: Look at the top three cards of your magic stone deck, choose a light magic stone from among them and put it into your magic stone area. Put the rest on the bottom of your megic stone deck in any order.\nJ-Activate Pay GG\n2",
+    "text": "Activate. T: Look at the top three cards of your magic stone deck, choose a light magic stone from among them and put it into your magic stone area. Put the rest on the bottom of your megic stone deck in any order.\nJ-Activate Pay GG2",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-074 U",
     "rarity": "U",
@@ -7261,7 +7261,7 @@
     "racesOrTraits": [
       "Giant"
     ],
-    "text": "Break: Put this card into your hand.\nWhile this card is a summon spell, players cannot chase cards with total cost 4 or less.\nContinuous: This card cannot be targeted by spells with total cost 4 or less or abilities on a card with total cost 4 or less.\nContinuous: At the end of your recovery phase, pay GG\n2 or put this card on the bottom of your main deck.\nContinuous: Other resonators gain [+100/+100] for each resonator in your field",
+    "text": "Break: Put this card into your hand.\nWhile this card is a summon spell, players cannot chase cards with total cost 4 or less.\nContinuous: This card cannot be targeted by spells with total cost 4 or less or abilities on a card with total cost 4 or less.\nContinuous: At the end of your recovery phase, pay GG2 or put this card on the bottom of your main deck.\nContinuous: Other resonators gain [+100/+100] for each resonator in your field",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-075 R",
     "rarity": "R",
@@ -7611,7 +7611,7 @@
     "racesOrTraits": [
       "Mage"
     ],
-    "text": "Activate. T: Look at the top three cards of your magic stone deck, choose a dark magic stone from among them and put it into your magic stone area. Put the rest on the bottom of your magic stone deck in any order.\nJ-Activate Pay BB\n2",
+    "text": "Activate. T: Look at the top three cards of your magic stone deck, choose a dark magic stone from among them and put it into your magic stone area. Put the rest on the bottom of your magic stone deck in any order.\nJ-Activate Pay BB2",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-098 U",
     "rarity": "U",
@@ -7642,7 +7642,7 @@
     "racesOrTraits": [
       "Giant"
     ],
-    "text": "Break: Put this card into your hand.\nWhile this card is a sumon spell, players cannot chase cards with total cost 4 or less.\nContinuous: This card cannot be targeted by spells with total cost 4 or less or abilities on a card with total cost 4 or less.\nContinuous: At the end of your recovery phase, pay BB\n2 or put this card on the bottom of your main deck.\nContinuous: As long as this card is in your field, each resonator in your opponent's field attacks if able.",
+    "text": "Break: Put this card into your hand.\nWhile this card is a sumon spell, players cannot chase cards with total cost 4 or less.\nContinuous: This card cannot be targeted by spells with total cost 4 or less or abilities on a card with total cost 4 or less.\nContinuous: At the end of your recovery phase, pay BB2 or put this card on the bottom of your main deck.\nContinuous: As long as this card is in your field, each resonator in your opponent's field attacks if able.",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-099 R",
     "rarity": "R",
@@ -8125,7 +8125,7 @@
     "racesOrTraits": [
       "Hero"
     ],
-    "text": "J-Activate Pay WWBB\n2.\nContinuous: Whenever a light magic stone is put into your magic stone area, target resonator gains [+200/+200] until end of turn.\nContinuous: Whenever a dark magic stone is put into your magic stone area, target resonator gains [-200/-200] until end of turn.",
+    "text": "J-Activate Pay WWBB2.\nContinuous: Whenever a light magic stone is put into your magic stone area, target resonator gains [+200/+200] until end of turn.\nContinuous: Whenever a dark magic stone is put into your magic stone area, target resonator gains [-200/-200] until end of turn.",
     "set": "The Shaft of Light of Valhalla",
     "code": "3-130 R",
     "rarity": "R",
@@ -8348,7 +8348,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "J-Activate Pay WB\n3.",
+    "text": "J-Activate Pay WB3.",
     "set": "The Crimson Moon Fairy Tale",
     "code": "CMF-013 R",
     "rarity": "R",
@@ -8746,7 +8746,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "J-Activate Pay WR\n2.\nJ-Activate Pay 1, discard \"Poison Apple\".",
+    "text": "J-Activate Pay WR2.\nJ-Activate Pay 1, discard \"Poison Apple\".",
     "set": "The Crimson Moon Fairy Tale",
     "code": "CMF-036 R",
     "rarity": "R",
@@ -8952,7 +8952,7 @@
       "Nightmare",
       "Human"
     ],
-    "text": "Enter: Destroy all other Humans.\nActivate. T: Prevent all damage from target Human resonator until end of turn.\nActivate. Pay R\n1: This card deals 500 damage to target Human.",
+    "text": "Enter: Destroy all other Humans.\nActivate. T: Prevent all damage from target Human resonator until end of turn.\nActivate. Pay R1: This card deals 500 damage to target Human.",
     "set": "The Crimson Moon Fairy Tale",
     "code": "CMF-047 R",
     "rarity": "R",
@@ -9043,7 +9043,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Activate. Pay 0: Change the text of target Treasury Item you control by replacing all instances of one attribute with another one until end of turn.\nActivate. Pary UU\n1: Search your main deck for a Treasury Item, reveal it and put it into your hand. Then shuffle your main deck.",
+    "text": "Activate. Pay 0: Change the text of target Treasury Item you control by replacing all instances of one attribute with another one until end of turn.\nActivate. Pary UU1: Search your main deck for a Treasury Item, reveal it and put it into your hand. Then shuffle your main deck.",
     "set": "The Crimson Moon Fairy Tale",
     "code": "CMF-052 R",
     "rarity": "R",
@@ -9642,7 +9642,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "J-Activate Pay WB\n3.",
+    "text": "J-Activate Pay WB3.",
     "set": "The Crimson Moon Fairy Tale",
     "code": "CMF-087 R",
     "rarity": "R",
@@ -9854,7 +9854,7 @@
     "attribute": "Light",
     "type": "Spell:Chant-Instant",
     "racesOrTraits": [],
-    "text": "You may pay W\n1 less to play this card, if it targets a Saint.\nTarget J/resonator you control cannot be targeted by spells or abilities until end of turn. Draw a card.",
+    "text": "You may pay W1 less to play this card, if it targets a Saint.\nTarget J/resonator you control cannot be targeted by spells or abilities until end of turn. Draw a card.",
     "set": "The Castle of Heaven and the Two Towers",
     "code": "TAT-001 C",
     "rarity": "C",
@@ -10058,7 +10058,7 @@
     "racesOrTraits": [
       "Princess"
     ],
-    "text": "J-Activate Pay W. Play this ability only if you control \"Almerius, the Levitating Stone\".\nJ-Activate Pay WW\n1.\nActivate. T: You gain 300 life.",
+    "text": "J-Activate Pay W. Play this ability only if you control \"Almerius, the Levitating Stone\".\nJ-Activate Pay WW1.\nActivate. T: You gain 300 life.",
     "set": "The Castle of Heaven and the Two Towers",
     "code": "TAT-014 R",
     "rarity": "R",
@@ -10354,7 +10354,7 @@
     "racesOrTraits": [
       "Nightmare"
     ],
-    "text": "Target Attack (This card can attack recovered J/Resonators\n.)\nAwakening R: Enter: Target resonator gains [+600/-600] until end of turn.\nAwakening R\n1: Enter: Recover target resonator. You gain control of it until end of turn. It gains Swiftness until end of turn.",
+    "text": "Target Attack (This card can attack recovered J/Resonators\n.)\nAwakening R: Enter: Target resonator gains [+600/-600] until end of turn.\nAwakening R1: Enter: Recover target resonator. You gain control of it until end of turn. It gains Swiftness until end of turn.",
     "set": "The Castle of Heaven and the Two Towers",
     "code": "TAT-031 SR",
     "rarity": "SR",
@@ -10725,7 +10725,7 @@
     "attribute": "Water",
     "type": "Addition:Resonator",
     "racesOrTraits": [],
-    "text": "Continuous: Resonator with this gains \"\nActivate. Pay UU\n2 T: Destroy target rested resonator.\" and \"\nActivate. T, banish this resonator: Draw three cards.\"",
+    "text": "Continuous: Resonator with this gains \"\nActivate. Pay UU2 T: Destroy target rested resonator.\" and \"\nActivate. T, banish this resonator: Draw three cards.\"",
     "set": "The Castle of Heaven and the Two Towers",
     "code": "TAT-054 C",
     "rarity": "C",
@@ -10773,7 +10773,7 @@
     "racesOrTraits": [
       "Little Girl"
     ],
-    "text": "J-Activate Pay 0. Play this ability only if you put \"Refarth. the Castle of Heaven\" into a field this turn.\nJ-Activate Pay GG\n1.",
+    "text": "J-Activate Pay 0. Play this ability only if you put \"Refarth. the Castle of Heaven\" into a field this turn.\nJ-Activate Pay GG1.",
     "set": "The Castle of Heaven and the Two Towers",
     "code": "TAT-057 R",
     "rarity": "R",
@@ -11124,7 +11124,7 @@
     "racesOrTraits": [
       "Prophet"
     ],
-    "text": "J-Activate Pay B. Play this ability only if you control \"Grusbalesta, the Sealing Stone\".\nJ-Activate Pay BB\n1.\nActivate. T: Target resonator gains [-300/-300] until end of turn.",
+    "text": "J-Activate Pay B. Play this ability only if you control \"Grusbalesta, the Sealing Stone\".\nJ-Activate Pay BB1.\nActivate. T: Target resonator gains [-300/-300] until end of turn.",
     "set": "The Castle of Heaven and the Two Towers",
     "code": "TAT-079 R",
     "rarity": "R",
@@ -11438,7 +11438,7 @@
       "Fairy Tale",
       "Prince"
     ],
-    "text": "Awakening W\n1: Enter: Search your main deck for a card named \"The Little Prince\" and put it into your field. This triggers its Enter: ability. Then shuffle your main deck.\nEnter: Rest target resonator your opponent controls.\nContinuous: Then \"The Little Prince\" is put into a graveyard from your field, you gain 1000 life.",
+    "text": "Awakening W1: Enter: Search your main deck for a card named \"The Little Prince\" and put it into your field. This triggers its Enter: ability. Then shuffle your main deck.\nEnter: Rest target resonator your opponent controls.\nContinuous: Then \"The Little Prince\" is put into a graveyard from your field, you gain 1000 life.",
     "set": "The Moon Priestess Returns",
     "code": "MPR-001 R",
     "rarity": "R",
@@ -11455,7 +11455,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Target Attack\nIncarnation W (You may banish two light resonators rather than play this card's cost.)\nAwakening WW\n2: Enter: Destroy all other resonators.",
+    "text": "Target Attack\nIncarnation W (You may banish two light resonators rather than play this card's cost.)\nAwakening WW2: Enter: Destroy all other resonators.",
     "set": "The Moon Priestess Returns",
     "code": "MPR-002 SR",
     "rarity": "SR",
@@ -12466,7 +12466,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "At the beginning of the game, search your magic stone deck for a card.Then, shuffle the rest of your magic stone deck and put that card on top of it.\nJ-Activate: Pay 1\nGG.",
+    "text": "At the beginning of the game, search your magic stone deck for a card.Then, shuffle the rest of your magic stone deck and put that card on top of it.\nJ-Activate: Pay 1GG.",
     "set": "The Moon Priestess Returns",
     "code": "MPR-064 R",
     "rarity": "R",
@@ -12856,7 +12856,7 @@
     "attribute": "Dark",
     "type": "Spell:Chant-Instant",
     "racesOrTraits": [],
-    "text": "If you control \"Zero, the Magus of Null\", you may pay B\n1 less to play this card.\nRemove target resonator from the game.",
+    "text": "If you control \"Zero, the Magus of Null\", you may pay B1 less to play this card.\nRemove target resonator from the game.",
     "set": "The Moon Priestess Returns",
     "code": "MPR-087 U",
     "rarity": "U",
@@ -13303,7 +13303,7 @@
     "attribute": "Fire",
     "type": "Spell:Chant",
     "racesOrTraits": [],
-    "text": "This card deals 300 damage to target player or resonator.\nActivate. RR\n1: Put this card from your graveyard into your hand.",
+    "text": "This card deals 300 damage to target player or resonator.\nActivate. RR1: Put this card from your graveyard into your hand.",
     "set": "The Millennia of Ages",
     "code": "MOA-016 C",
     "rarity": "C",
@@ -13751,7 +13751,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Awakening B: Enter: Search your main deck for a card named \"Book of Eibon\", reveal it and put it into your hand. Then shuffle your main deck.\nActivate. BB\n1: Target resonator gains [-400/-400] until end of turn.",
+    "text": "Awakening B: Enter: Search your main deck for a card named \"Book of Eibon\", reveal it and put it into your hand. Then shuffle your main deck.\nActivate. BB1: Target resonator gains [-400/-400] until end of turn.",
     "set": "The Millennia of Ages",
     "code": "MOA-044 R",
     "rarity": "R",
@@ -13931,7 +13931,7 @@
     "attribute": "Light",
     "type": "Spell:Chant-Instant",
     "racesOrTraits": [],
-    "text": "You may pay W\n1 less to play this card, if it targets a Saint.\nTarget J/resonator you control cannot be targeted by spells or abilities until end of turn. Draw a card.",
+    "text": "You may pay W1 less to play this card, if it targets a Saint.\nTarget J/resonator you control cannot be targeted by spells or abilities until end of turn. Draw a card.",
     "set": "Vingolf series - Engage Knights",
     "code": "VIN001-003 C",
     "rarity": "C",
@@ -14026,7 +14026,7 @@
     "racesOrTraits": [
       "General"
     ],
-    "text": "J-Activate W\n2.\n2: Target resonator gains [+0/+200] until end of turn.",
+    "text": "J-Activate W2.\n2: Target resonator gains [+0/+200] until end of turn.",
     "set": "Vingolf series - Engage Knights",
     "code": "VIN001-007 R",
     "rarity": "R",
@@ -14267,7 +14267,7 @@
     "racesOrTraits": [
       "King"
     ],
-    "text": "J-Activate R\n2\n2: This card deals 200 damage to target resonator.",
+    "text": "J-Activate R22: This card deals 200 damage to target resonator.",
     "set": "Vingolf series - Engage Knights",
     "code": "VIN001-016 R",
     "rarity": "R",
@@ -14783,7 +14783,7 @@
     "racesOrTraits": [
       "General"
     ],
-    "text": "J-Activate U\n2\n2: Target resonator gains Flying until end of turn.",
+    "text": "J-Activate U22: Target resonator gains Flying until end of turn.",
     "set": "Vingolf series - Engage Knights",
     "code": "VIN001-035 R",
     "rarity": "R",
@@ -15055,7 +15055,7 @@
     "attribute": "Water",
     "type": "Addition:Resonator",
     "racesOrTraits": [],
-    "text": "Added resonator gains \"\nUU\n2 T: destroy target rested resonator.\" and \"\nT, banish this resonator: Draw three cards.\"",
+    "text": "Added resonator gains \"\nUU2 T: destroy target rested resonator.\" and \"\nT, banish this resonator: Draw three cards.\"",
     "set": "Vingolf series - Engage Knights",
     "code": "VIN001-045 C",
     "rarity": "C",
@@ -15312,7 +15312,7 @@
     "racesOrTraits": [
       "Warlord"
     ],
-    "text": "J-Activate G\n2\n2: Target resonator gains [+200/+0] until end of turn.",
+    "text": "J-Activate G22: Target resonator gains [+200/+0] until end of turn.",
     "set": "Vingolf series - Engage Knights",
     "code": "VIN001-055 R",
     "rarity": "R",
@@ -15841,7 +15841,7 @@
     "racesOrTraits": [
       "Vampire"
     ],
-    "text": "J-Activate B\n2.\n2: This card deals 200 damage to target opponent. You gain 200 life.",
+    "text": "J-Activate B2.\n2: This card deals 200 damage to target opponent. You gain 200 life.",
     "set": "Vingolf series - Engage Knights",
     "code": "VIN001-075 R",
     "rarity": "R",
@@ -15855,7 +15855,7 @@
     "racesOrTraits": [
       "Vampire"
     ],
-    "text": "When this card enters your field, destroy target resonator with total cost 3 or less. You gain life equal to its DEF.\nB\n2, banish a darkness resonator: This card gains Imperishable until end of turn.",
+    "text": "When this card enters your field, destroy target resonator with total cost 3 or less. You gain life equal to its DEF.\nB2, banish a darkness resonator: This card gains Imperishable until end of turn.",
     "set": "Vingolf series - Engage Knights",
     "code": "VIN001-075 R",
     "rarity": "R",
@@ -16163,7 +16163,7 @@
     "racesOrTraits": [
       "Seven Kings"
     ],
-    "text": "Target Attack (This card can attack recovered J/resonators.)\nWhen this card enters your field, put the top card of your magic stone deck into your magic stone area.\nWhenever this card attacks, recover target Regalia you control.\nGod's Art &lt;God's Breath&gt; WW\n4: Recover all resonators you control. Play God's Art &lt;God's Breath&gt; only once per game.",
+    "text": "Target Attack (This card can attack recovered J/resonators.)\nWhen this card enters your field, put the top card of your magic stone deck into your magic stone area.\nWhenever this card attacks, recover target Regalia you control.\nGod's Art &lt;God's Breath&gt; WW4: Recover all resonators you control. Play God's Art &lt;God's Breath&gt; only once per game.",
     "set": "Faria, the Sacred Queen/Melgis, the Flame King",
     "code": "VS01-003 R",
     "rarity": "R",
@@ -16571,7 +16571,7 @@
     "racesOrTraits": [
       "Seven Kings"
     ],
-    "text": "First Strike (While attacking, this card deals battle damage first to the blocker or attacked object.)\nWhen this card enters your field, put the top card of your magic stone deck into your magic stone area.\nR, banish a magic stone or resonator: This card deals 300 damage to target resonator.\nGod's Art &lt;:Unleash the Demon Sword&gt; RR\n4: Destroy target resonator. This card gains [+X/+0] until end of turn, where X is the ATK of the destroyed resonator. Play God's Art &lt;Unleash the Demon Sword&gt; only once per game.",
+    "text": "First Strike (While attacking, this card deals battle damage first to the blocker or attacked object.)\nWhen this card enters your field, put the top card of your magic stone deck into your magic stone area.\nR, banish a magic stone or resonator: This card deals 300 damage to target resonator.\nGod's Art &lt;:Unleash the Demon Sword&gt; RR4: Destroy target resonator. This card gains [+X/+0] until end of turn, where X is the ATK of the destroyed resonator. Play God's Art &lt;Unleash the Demon Sword&gt; only once per game.",
     "set": "Faria, the Sacred Queen/Melgis, the Flame King",
     "code": "VS01-028 R",
     "rarity": "R",
@@ -16686,7 +16686,7 @@
     "racesOrTraits": [
       "Seven Kings"
     ],
-    "text": "Flying\nWhen this card enters your field, search your main deck for an Angel resonator, reveal it and put it into your hand. Then shuffle your main deck.\nGod's Art &lt;Rain of Arrows&gt; WW\n2: Whenever a J/resonator you control attacks this turn, this card deals 400 damage to target resonator your opponent controls for each time J/resonators you control attacked this turn. (Play God's Art &lt;Rain of Arrows&gt; only once per game.)",
+    "text": "Flying\nWhen this card enters your field, search your main deck for an Angel resonator, reveal it and put it into your hand. Then shuffle your main deck.\nGod's Art &lt;Rain of Arrows&gt; WW2: Whenever a J/resonator you control attacks this turn, this card deals 400 damage to target resonator your opponent controls for each time J/resonators you control attacked this turn. (Play God's Art &lt;Rain of Arrows&gt; only once per game.)",
     "set": "The Seven Kings of the Lands",
     "code": "SKL-001 R",
     "rarity": "R",
@@ -16801,7 +16801,7 @@
     "racesOrTraits": [
       "Seven Kings"
     ],
-    "text": "Target Attack (This card can attack recovered J/resonators.)\nWhen this card enters your field, put the top card of your magic stone deck into your magic stone area.\nWhenever this card attacks, recover target Regalia you control.\nGod's Art &lt;God's Breath&gt; WW\n4: Recover all resonators you control. Play God's Art &lt;God's Breath&gt; only once per game.",
+    "text": "Target Attack (This card can attack recovered J/resonators.)\nWhen this card enters your field, put the top card of your magic stone deck into your magic stone area.\nWhenever this card attacks, recover target Regalia you control.\nGod's Art &lt;God's Breath&gt; WW4: Recover all resonators you control. Play God's Art &lt;God's Breath&gt; only once per game.",
     "set": "The Seven Kings of the Lands",
     "code": "SKL-007 R",
     "rarity": "R",
@@ -17122,7 +17122,7 @@
     "racesOrTraits": [
       "Seven Kings"
     ],
-    "text": "First Strike (While attacking, this card deals battle damage first to the blocker or attacked object.)\nWhen this card enters your field, put the top card of your magic stone deck into your magic stone area.\nR, banish a magic stone or resonator: This card deals 300 damage to target resonator.\nGod's Art &lt;:Unleash the Demon Sword&gt; RR\n4: Destroy target resonator. This card gains [+X/+0] until end of turn, where X is the ATK of the destroyed resonator. Play God's Art &lt;Unleash the Demon Sword&gt; only once per game.",
+    "text": "First Strike (While attacking, this card deals battle damage first to the blocker or attacked object.)\nWhen this card enters your field, put the top card of your magic stone deck into your magic stone area.\nR, banish a magic stone or resonator: This card deals 300 damage to target resonator.\nGod's Art &lt;:Unleash the Demon Sword&gt; RR4: Destroy target resonator. This card gains [+X/+0] until end of turn, where X is the ATK of the destroyed resonator. Play God's Art &lt;Unleash the Demon Sword&gt; only once per game.",
     "set": "The Seven Kings of the Lands",
     "code": "SKL-027 R",
     "rarity": "R",
@@ -17457,7 +17457,7 @@
     "racesOrTraits": [
       "Seven Kings"
     ],
-    "text": "When this card enters your field, put the top card of your magic stone deck into your magic stone area.\nPrevent all damage that would be dealt to this card during your turn.\nThis card gains [+100/+100] for each card into your hand.\nGod's Art &lt;Chain of Love&gt; UU\n2: Gain control of target resonator. (Play God's Art &lt;Chain of Love&gt; only once per game.)",
+    "text": "When this card enters your field, put the top card of your magic stone deck into your magic stone area.\nPrevent all damage that would be dealt to this card during your turn.\nThis card gains [+100/+100] for each card into your hand.\nGod's Art &lt;Chain of Love&gt; UU2: Gain control of target resonator. (Play God's Art &lt;Chain of Love&gt; only once per game.)",
     "set": "The Seven Kings of the Lands",
     "code": "SKL-048 R",
     "rarity": "R",
@@ -17710,7 +17710,7 @@
     "racesOrTraits": [
       "Forest"
     ],
-    "text": "Beasts and Four Sacred Beasts you control gain [+200/+200].\nWhenever a resonator is put into a graveyard from your field, you may pay GG\n1. If you do, draw a card.",
+    "text": "Beasts and Four Sacred Beasts you control gain [+200/+200].\nWhenever a resonator is put into a graveyard from your field, you may pay GG1. If you do, draw a card.",
     "set": "The Seven Kings of the Lands",
     "code": "SKL-063 R",
     "rarity": "R",
@@ -17922,7 +17922,7 @@
       "Seven Kings",
       "Vampire"
     ],
-    "text": "Imperishable\nWhen this card enters your field, you may puy up to two cards from your hand into your chant-standby area face down.\nThis card gains [+200/+200] for each card in your chant-standby area.\nGod's Art &lt;March of Undead&gt; BB\n4: Remove any number of resonators in your graveyard from the game. For each card removed this way, each player banishes a resonator and discards a card. (Play God's Art &lt;March of Undead&gt; only once per game.)",
+    "text": "Imperishable\nWhen this card enters your field, you may puy up to two cards from your hand into your chant-standby area face down.\nThis card gains [+200/+200] for each card in your chant-standby area.\nGod's Art &lt;March of Undead&gt; BB4: Remove any number of resonators in your graveyard from the game. For each card removed this way, each player banishes a resonator and discards a card. (Play God's Art &lt;March of Undead&gt; only once per game.)",
     "set": "The Seven Kings of the Lands",
     "code": "SKL-077 R",
     "rarity": "R",
@@ -18177,7 +18177,7 @@
       "Wanderer",
       "Pawn"
     ],
-    "text": "J-Activate U\n1\nT: Search your main deck for a card named \"Deep Blue, the Phantom Board\", reveal it and put it into your hand. Then shuffle your main deck.",
+    "text": "J-Activate U1\nT: Search your main deck for a card named \"Deep Blue, the Phantom Board\", reveal it and put it into your hand. Then shuffle your main deck.",
     "set": "The Seven Kings of the Lands",
     "code": "SKL-092 R",
     "rarity": "R",
@@ -18208,7 +18208,7 @@
       "Wanderer",
       "Pawn"
     ],
-    "text": "J-Activate U\n1\nT: Search your main deck for a card named \"Deep Blue, the Phantom Board\", reveal it and put it into your hand. Then shuffle your main deck.",
+    "text": "J-Activate U1\nT: Search your main deck for a card named \"Deep Blue, the Phantom Board\", reveal it and put it into your hand. Then shuffle your main deck.",
     "set": "The Seven Kings of the Lands",
     "code": "SKL-093 R",
     "rarity": "R",
@@ -18222,7 +18222,7 @@
     "racesOrTraits": [
       "Knight"
     ],
-    "text": "When this card enters your field, search your main deck a for Fairy Tale resonator, reveal it and put it into your hand. Then shuffle your main deck.\nCounters on Fairy Tales you control cannot be removed by effects.\nGod's Art &lt;Leaping Dance&gt; U\n1. If you do, copy this ability. You may choose new targets for the copy. (Play God's Art &lt;Leaping Dance&gt; only once per game.)",
+    "text": "When this card enters your field, search your main deck a for Fairy Tale resonator, reveal it and put it into your hand. Then shuffle your main deck.\nCounters on Fairy Tales you control cannot be removed by effects.\nGod's Art &lt;Leaping Dance&gt; U1. If you do, copy this ability. You may choose new targets for the copy. (Play God's Art &lt;Leaping Dance&gt; only once per game.)",
     "set": "The Seven Kings of the Lands",
     "code": "SKL-093 R",
     "rarity": "R",
@@ -18846,7 +18846,7 @@
     "racesOrTraits": [
       "Minion of Primogenitor"
     ],
-    "text": "Judgment RG\n2.\nFire magic stones you control gain \"\nT: Produce G\".",
+    "text": "Judgment RG2.\nFire magic stones you control gain \"\nT: Produce G\".",
     "set": "The Twilight Wanderer",
     "code": "TTW-032 R",
     "rarity": "R",
@@ -19005,7 +19005,7 @@
     "attribute": "Water",
     "type": "Addition:Field",
     "racesOrTraits": [],
-    "text": "You may choose not to recover this card during the recovery phase.\nT, U\n1: Rest target resonator. It doesn't recover during the recovery phase as long as this card is rested.",
+    "text": "You may choose not to recover this card during the recovery phase.\nT, U1: Rest target resonator. It doesn't recover during the recovery phase as long as this card is rested.",
     "set": "The Twilight Wanderer",
     "code": "TTW-041 R",
     "rarity": "R",
@@ -19067,7 +19067,7 @@
     "racesOrTraits": [
       "Overlord"
     ],
-    "text": "Judgment U\n2.\nU\n1: Search your main deck for a regalia, reveal it and put it into your hand. Then shuffle your main deck.",
+    "text": "Judgment U2.\nU1: Search your main deck for a regalia, reveal it and put it into your hand. Then shuffle your main deck.",
     "set": "The Twilight Wanderer",
     "code": "TTW-045 R",
     "rarity": "R",
@@ -19467,7 +19467,7 @@
     "racesOrTraits": [
       "Beast"
     ],
-    "text": "Evolution G\n1. (If there are no evolution counters on this card, put an evolution counter on it.)\nAs long as there are one or more evolution counters on this card, it gains [+300/+300].",
+    "text": "Evolution G1. (If there are no evolution counters on this card, put an evolution counter on it.)\nAs long as there are one or more evolution counters on this card, it gains [+300/+300].",
     "set": "The Twilight Wanderer",
     "code": "TTW-069 U",
     "rarity": "U",
@@ -19519,7 +19519,7 @@
       "Twelve Apostles",
       "Beast"
     ],
-    "text": "Evolution GG\n2. (If there are no evolution counters on thi card, put an evolution counter on it.)\nAs long as there are one or more evolution counters on this card, it gains [+300/+300] and Flying.\nWhenever an evolution counter is put on this card, you may put an evolution counter on taret resonator with no evolution counters on it.",
+    "text": "Evolution GG2. (If there are no evolution counters on thi card, put an evolution counter on it.)\nAs long as there are one or more evolution counters on this card, it gains [+300/+300] and Flying.\nWhenever an evolution counter is put on this card, you may put an evolution counter on taret resonator with no evolution counters on it.",
     "set": "The Twilight Wanderer",
     "code": "TTW-072 SR",
     "rarity": "SR",
@@ -19643,7 +19643,7 @@
       "Shadow",
       "Seven Kings"
     ],
-    "text": "Flying (This card cannot be blocked by J/resonators without Flying.)\nB\n1: This card deals 600 damage to target resonator with Flying.",
+    "text": "Flying (This card cannot be blocked by J/resonators without Flying.)\nB1: This card deals 600 damage to target resonator with Flying.",
     "set": "The Twilight Wanderer",
     "code": "TTW-079 U",
     "rarity": "U",
@@ -20064,7 +20064,7 @@
     "racesOrTraits": [
       "Wererabbit"
     ],
-    "text": "Awakening M\n1: When this card enters your field, it deals 600 damage to target rested resonator. If damage was dealt this way, put two [+100/+100] counters on this card.",
+    "text": "Awakening M1: When this card enters your field, it deals 600 damage to target rested resonator. If damage was dealt this way, put two [+100/+100] counters on this card.",
     "set": "The Moonlit Savior",
     "code": "TMS-002 R",
     "rarity": "R",
@@ -20081,7 +20081,7 @@
       "Wanderer",
       "Little Girl"
     ],
-    "text": "Judgment WM\n1\nYou may spend G.\nWhenever a Moon enters your field, you may draw a card.",
+    "text": "Judgment WM1\nYou may spend G.\nWhenever a Moon enters your field, you may draw a card.",
     "set": "The Moonlit Savior",
     "code": "TMS-003 R",
     "rarity": "R",
@@ -20095,7 +20095,7 @@
     "racesOrTraits": [
       "Wizard"
     ],
-    "text": "You may spend G.\nWhenever you awaken a card, put two [+100/+100] counters on this card.\nM: Cancel target automatic ability.\nW\n1: Prevent the next damage that would be dealt to this card this turn.\nGod's Art [Light of the Sacred Moon] WM\n3\">: Rest all J/resonators your opponent controls. Then recover all magic stones you control. You may pay Awakening costs <img src=\"_images/icons/1x1.gif\" class=\"fdb-icon-m\" alt=\"m less this turn. (Play God's Art [Light of the Sacred Moon] only once per game.)",
+    "text": "You may spend G.\nWhenever you awaken a card, put two [+100/+100] counters on this card.\nM: Cancel target automatic ability.\nW1: Prevent the next damage that would be dealt to this card this turn.\nGod's Art [Light of the Sacred Moon] WM3\">: Rest all J/resonators your opponent controls. Then recover all magic stones you control. You may pay Awakening costs <img src=\"_images/icons/1x1.gif\" class=\"fdb-icon-m\" alt=\"m less this turn. (Play God's Art [Light of the Sacred Moon] only once per game.)",
     "set": "The Moonlit Savior",
     "code": "TMS-003 R",
     "rarity": "R",
@@ -20112,7 +20112,7 @@
     "racesOrTraits": [
       "Moon"
     ],
-    "text": "J/resonators you control with Awakening gain [+200/+200].\nM\n2: Rest target J-ruler.",
+    "text": "J/resonators you control with Awakening gain [+200/+200].\nM2: Rest target J-ruler.",
     "set": "The Moonlit Savior",
     "code": "TMS-004 U",
     "rarity": "U",
@@ -20172,7 +20172,7 @@
     "attribute": "Light",
     "type": "Spell:Chant",
     "racesOrTraits": [],
-    "text": "Destroy target rested resonator. Destroy up to one second target rested resonator if this card was awakened.\nAwakening M\n1.",
+    "text": "Destroy target rested resonator. Destroy up to one second target rested resonator if this card was awakened.\nAwakening M1.",
     "set": "The Moonlit Savior",
     "code": "TMS-008 R",
     "rarity": "R",
@@ -20548,7 +20548,7 @@
     "racesOrTraits": [
       "Wizard"
     ],
-    "text": "Judgment RR\n12\nYou may pay 1 less to play this ability for each card in your removed area.",
+    "text": "Judgment RR12\nYou may pay 1 less to play this ability for each card in your removed area.",
     "set": "The Moonlit Savior",
     "code": "TMS-031 R",
     "rarity": "R",
@@ -20562,7 +20562,7 @@
     "racesOrTraits": [
       "Wizard"
     ],
-    "text": "When this card enters your field, search your main deck for a card named \"Blazing Metropolis, Vell-Savaria\", reveal it and put it into your hand. Then shuffle your main deck.\nResonators you control gain Swiftness, Target Attack, and First Strike.\nGod's Art [Total Recall] RR\n2: This card deals 100 damage to each J/resonator your opponent controls for each card in your removed area. Then, you may put any number of cards from your removed area into your graveyard. (Play God's Art [Total Recall] only once per game.)",
+    "text": "When this card enters your field, search your main deck for a card named \"Blazing Metropolis, Vell-Savaria\", reveal it and put it into your hand. Then shuffle your main deck.\nResonators you control gain Swiftness, Target Attack, and First Strike.\nGod's Art [Total Recall] RR2: This card deals 100 damage to each J/resonator your opponent controls for each card in your removed area. Then, you may put any number of cards from your removed area into your graveyard. (Play God's Art [Total Recall] only once per game.)",
     "set": "The Moonlit Savior",
     "code": "TMS-031 R",
     "rarity": "R",
@@ -20671,7 +20671,7 @@
     "attribute": "Water",
     "type": "Addition:Field",
     "racesOrTraits": [],
-    "text": "Fairy Tale resonators you control gain [+200/+200].\nU\n1: Target resonator loses all races and becomes a Fairy Tale until end of turn.",
+    "text": "Fairy Tale resonators you control gain [+200/+200].\nU1: Target resonator loses all races and becomes a Fairy Tale until end of turn.",
     "set": "The Moonlit Savior",
     "code": "TMS-038 U",
     "rarity": "U",
@@ -20792,7 +20792,7 @@
     "racesOrTraits": [
       "Songstress"
     ],
-    "text": "Judgment U\n2\nYou may look at the top card of your main deck at any time.",
+    "text": "Judgment U2\nYou may look at the top card of your main deck at any time.",
     "set": "The Moonlit Savior",
     "code": "TMS-046 R",
     "rarity": "R",
@@ -21000,7 +21000,7 @@
     "racesOrTraits": [
       "Beast"
     ],
-    "text": "Evolution GG\n2. (If there are no evolution counters on this card, put an evolution counter on it.) As long as there are one or more evolution counters on this card, it gains [+500/+500].\nWhenever an evolution counter is placed on this card, this and a J/resonator your opponent controls deal damage equal to their ATK to each other.",
+    "text": "Evolution GG2. (If there are no evolution counters on this card, put an evolution counter on it.) As long as there are one or more evolution counters on this card, it gains [+500/+500].\nWhenever an evolution counter is placed on this card, this and a J/resonator your opponent controls deal damage equal to their ATK to each other.",
     "set": "The Moonlit Savior",
     "code": "TMS-058 R",
     "rarity": "R",
@@ -21200,7 +21200,7 @@
     "attribute": "Dark",
     "type": "Spell:Chant-Instant",
     "racesOrTraits": [],
-    "text": "Put target resonator from your graveyard into your hand.\nAwakening M\n1: Search your main deck for a darkness resonator, reveal it and put it into your hand. Then shuffle your main deck.",
+    "text": "Put target resonator from your graveyard into your hand.\nAwakening M1: Search your main deck for a darkness resonator, reveal it and put it into your hand. Then shuffle your main deck.",
     "set": "The Moonlit Savior",
     "code": "TMS-071 C",
     "rarity": "C",
@@ -21214,7 +21214,7 @@
     "racesOrTraits": [
       "Wanderer"
     ],
-    "text": "Judgment BM\n1\nYour opponent plays 1 more to play regalia's activate abilities.",
+    "text": "Judgment BM1\nYour opponent plays 1 more to play regalia's activate abilities.",
     "set": "The Moonlit Savior",
     "code": "TMS-072 R",
     "rarity": "R",
@@ -21228,7 +21228,7 @@
     "racesOrTraits": [
       "Subjugator"
     ],
-    "text": "When this card enters your field, you may search your main deck for a card named \"Pitch Black Moon\" and put it into your field. Then shuffle your main deck.\nM: Cancel target activate ability.\nB\n1: Target J/resonator gains [-200/-200] until end of turn.\nGod's Art [Space-Time Control] BM\n2: Search your opponent's main deck for a resonator, regalia, and/or [Addition:Field] and put them into your field. The your opponent shuffles their main deck. (Play God's Art [Space-Time Control] only once per game.)",
+    "text": "When this card enters your field, you may search your main deck for a card named \"Pitch Black Moon\" and put it into your field. Then shuffle your main deck.\nM: Cancel target activate ability.\nB1: Target J/resonator gains [-200/-200] until end of turn.\nGod's Art [Space-Time Control] BM2: Search your opponent's main deck for a resonator, regalia, and/or [Addition:Field] and put them into your field. The your opponent shuffles their main deck. (Play God's Art [Space-Time Control] only once per game.)",
     "set": "The Moonlit Savior",
     "code": "TMS-072 R",
     "rarity": "R",
@@ -21315,7 +21315,7 @@
       "Twelve Apostles",
       "Myth"
     ],
-    "text": "BBB\n2, remove this card in your graveyard from the game: Destroy target resonator.\nBM, remove this card in your graveyard from the game: Your opponent discards a card.",
+    "text": "BBB2, remove this card in your graveyard from the game: Destroy target resonator.\nBM, remove this card in your graveyard from the game: Your opponent discards a card.",
     "set": "The Moonlit Savior",
     "code": "TMS-077 SR",
     "rarity": "SR",
@@ -21363,7 +21363,7 @@
     "racesOrTraits": [
       "Conqueror"
     ],
-    "text": "Shift RR\n2 (You may play either side of this card.\nRR\n2: Flip this card. You may play Shift anytime you can play a [Spell:Chant].)\nWhen this card enters your field, you may search your main deck for a Twelve Apostle and/or card named \"Attoractia, Dimension of the Seven Kings\", reveal them, and put them into your hand. Then shuffle your main deck.\nDiscard a Twelve Apostle: This card gains [+400/+400] and Target Attack until end of turn.",
+    "text": "Shift RR2 (You may play either side of this card.\nRR2: Flip this card. You may play Shift anytime you can play a [Spell:Chant].)\nWhen this card enters your field, you may search your main deck for a Twelve Apostle and/or card named \"Attoractia, Dimension of the Seven Kings\", reveal them, and put them into your hand. Then shuffle your main deck.\nDiscard a Twelve Apostle: This card gains [+400/+400] and Target Attack until end of turn.",
     "set": "Battle for Attoractia",
     "code": "BFA-080 SR",
     "rarity": "SR",
@@ -21764,7 +21764,7 @@
     "racesOrTraits": [
       "Little Girl"
     ],
-    "text": "Awakening M\n1: When this card enters your field, you may search your main deck for up to four Rabbit resonators with total cost 1 and put them into your field. Then shuffle your main deck.\nWhenever a resonator is put into a graveyard from your field, put a [+100/+100] counter on this card.",
+    "text": "Awakening M1: When this card enters your field, you may search your main deck for up to four Rabbit resonators with total cost 1 and put them into your field. Then shuffle your main deck.\nWhenever a resonator is put into a graveyard from your field, put a [+100/+100] counter on this card.",
     "set": "Battle for Attoractia",
     "code": "BFA-008 SR",
     "rarity": "SR",
@@ -22554,7 +22554,7 @@
     "racesOrTraits": [
       "Beast"
     ],
-    "text": "If your life is 100 you may pay GG\n8 less to play this card.\nBlocking does not cause this card to rest.",
+    "text": "If your life is 100 you may pay GG8 less to play this card.\nBlocking does not cause this card to rest.",
     "set": "Battle for Attoractia",
     "code": "BFA-060 R",
     "rarity": "R",
@@ -22806,7 +22806,7 @@
     "racesOrTraits": [
       "Guardian"
     ],
-    "text": "Shift B\n2 (You may play either side of this card.\nB\n2: Flip this card. You may play Shift anytime you can play a [Spell:Chant].)\nWhen this card enters your field, you gain 600 life.\nOther J/resonators you control gain [0/+200].",
+    "text": "Shift B2 (You may play either side of this card.\nB2: Flip this card. You may play Shift anytime you can play a [Spell:Chant].)\nWhen this card enters your field, you gain 600 life.\nOther J/resonators you control gain [0/+200].",
     "set": "Battle for Attoractia",
     "code": "BFA-076 SR",
     "rarity": "SR",
@@ -22841,7 +22841,7 @@
     "racesOrTraits": [
       "Knight"
     ],
-    "text": "Shift U\n2\"> (You may play either side of this card. <img src=\"_images/icons/1x1.gif\" class=\"fdb-icon-u\" alt=\"u\n2: Flip this card. You may play Shift anytime you can play a [Spell:Chant].)\nPrevent all damage that would be dealt to this card during your turn.",
+    "text": "Shift U2\"> (You may play either side of this card. <img src=\"_images/icons/1x1.gif\" class=\"fdb-icon-u\" alt=\"u\n2: Flip this card. You may play Shift anytime you can play a [Spell:Chant].)\nPrevent all damage that would be dealt to this card during your turn.",
     "set": "Battle for Attoractia",
     "code": "BFA-077 SR",
     "rarity": "SR",
@@ -22875,7 +22875,7 @@
     "racesOrTraits": [
       "Little Boy"
     ],
-    "text": "Shift WW\n3\"> (You may play either side of this card. <img src=\"_images/icons/1x1.gif\" class=\"fdb-icon-w\" alt=\"w\nW\n3: Flip this card. You may play Shift anytime you can play a [Spell:Chant].)\nThis card cannot be targeted by spells or abilities.\n1: Put a magic counter on this card.",
+    "text": "Shift WW3\"> (You may play either side of this card. <img src=\"_images/icons/1x1.gif\" class=\"fdb-icon-w\" alt=\"w\nW3: Flip this card. You may play Shift anytime you can play a [Spell:Chant].)\nThis card cannot be targeted by spells or abilities.\n1: Put a magic counter on this card.",
     "set": "Battle for Attoractia",
     "code": "BFA-078 SR",
     "rarity": "SR",
@@ -22909,7 +22909,7 @@
     "racesOrTraits": [
       "Beast"
     ],
-    "text": "Shift UU\n1 (You may play either side of this card.\nUU\n1: Flip this card. You may play Shift anytime you can play a [Spell:Chant].)\nWhen this card enters your field, this card and target J/resonator your opponent controls deal damage equal to their ATK to each other.\n1: This card gains [+100/+100] until end of turn.",
+    "text": "Shift UU1 (You may play either side of this card.\nUU1: Flip this card. You may play Shift anytime you can play a [Spell:Chant].)\nWhen this card enters your field, this card and target J/resonator your opponent controls deal damage equal to their ATK to each other.\n1: This card gains [+100/+100] until end of turn.",
     "set": "Battle for Attoractia",
     "code": "BFA-079 SR",
     "rarity": "SR",
@@ -22958,7 +22958,7 @@
     "attribute": "Void",
     "type": "Addition:Field",
     "racesOrTraits": [],
-    "text": "Shift 7\nWhen this card enters your field, draw a card.",
+    "text": "Shift 7When this card enters your field, draw a card.",
     "set": "Battle for Attoractia",
     "code": "BFA-081 R",
     "rarity": "R",
@@ -23392,7 +23392,7 @@
     "name": "Call to Action's Memoria",
     "type": "Special Magic Stone",
     "racesOrTraits": [],
-    "text": "T: Produce W.\nW\n1, T: You gain 100 life.",
+    "text": "T: Produce W.\nW1, T: You gain 100 life.",
     "set": "Battle for Attoractia",
     "code": "BFA-096 R",
     "rarity": "R",
@@ -23403,7 +23403,7 @@
     "name": "Brutal Conqueror's Memoria",
     "type": "Special Magic Stone",
     "racesOrTraits": [],
-    "text": "T: Produce R.\nR\n2, T: This card deals 100 damage to your opponent.",
+    "text": "T: Produce R.\nR2, T: This card deals 100 damage to your opponent.",
     "set": "Battle for Attoractia",
     "code": "BFA-097 R",
     "rarity": "R",
@@ -23414,7 +23414,7 @@
     "name": "Aloof Researcher's Memoria",
     "type": "Special Magic Stone",
     "racesOrTraits": [],
-    "text": "T: Produce U.\nU\n1,\nT: Draw a card, then discards a card.",
+    "text": "T: Produce U.\nU1,\nT: Draw a card, then discards a card.",
     "set": "Battle for Attoractia",
     "code": "BFA-098 R",
     "rarity": "R",
@@ -23436,7 +23436,7 @@
     "name": "Sorrowful Necromancy's Memoria",
     "type": "Special Magic Stone",
     "racesOrTraits": [],
-    "text": "T: Produce B.\nB\n1,\nT: Remove target card in a graveyard from the game.",
+    "text": "T: Produce B.\nB1,\nT: Remove target card in a graveyard from the game.",
     "set": "Battle for Attoractia",
     "code": "BFA-100 R",
     "rarity": "R",
@@ -23760,7 +23760,7 @@
       "Military",
       "Nameless"
     ],
-    "text": "R\n1,\nT: Search your main deck for a regalia with total cost 1 or more, reveal it and put it into your hand. Then shuffle your main deck.",
+    "text": "R1,\nT: Search your main deck for a regalia with total cost 1 or more, reveal it and put it into your hand. Then shuffle your main deck.",
     "set": "Vingolf 2 - Valkyria Chronicles",
     "code": "VIN002-019 C",
     "rarity": "C",
@@ -24037,7 +24037,7 @@
     "racesOrTraits": [
       "Archduchess"
     ],
-    "text": "UU\n1,\nT, discard a card: Return target resonator to its owner's hand.",
+    "text": "UU1,\nT, discard a card: Return target resonator to its owner's hand.",
     "set": "Vingolf 2 - Valkyria Chronicles",
     "code": "VIN002-034 C",
     "rarity": "C",
@@ -24938,7 +24938,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Judgment RR\n2\nEnergize R.\")\nWhenever a resonator you control attacks ⇒ This card deals 100 damage to target resonator.",
+    "text": "Judgment RR2\nEnergize R.\")\nWhenever a resonator you control attacks ⇒ This card deals 100 damage to target resonator.",
     "set": "Starter Deck Lapis - Fire",
     "code": "SDL2-007 R",
     "rarity": "R",
@@ -24965,7 +24965,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Judgment WW\n1\nEnergize W.\")\nYou may pay the attribute cost of Fairy Tale resonators with light will.",
+    "text": "Judgment WW1\nEnergize W.\")\nYou may pay the attribute cost of Fairy Tale resonators with light will.",
     "set": "Starter Deck Lapis - Light",
     "code": "SDL1-009 R",
     "rarity": "R",
@@ -24997,7 +24997,7 @@
       "Human",
       "Cthulhu"
     ],
-    "text": "Limit 1\nWhen this card enters your field or whenever it attacks ⇒ Search your deck for a card named \"Gentle Goat\", and put it into your field. Then shuffle your deck.\nBanish a Goat: Put two limit counters on this card.\nAt the end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
+    "text": "Limit 1When this card enters your field or whenever it attacks ⇒ Search your deck for a card named \"Gentle Goat\", and put it into your field. Then shuffle your deck.\nBanish a Goat: Put two limit counters on this card.\nAt the end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
     "set": "Starter Deck Lapis - Fire",
     "code": "SDL2-009 SR",
     "rarity": "SR",
@@ -25312,7 +25312,7 @@
     "racesOrTraits": [
       "Seven Luminaries Mage"
     ],
-    "text": "Judgment UU\n1\nEnergize U.\")\nMana 2 (As the game starts, put two mana counters on this card.)\nRemove a mana counter from this card: Produce U. Spend this will only to play Ancient Magic cards.",
+    "text": "Judgment UU1\nEnergize U.\")\nMana 2 (As the game starts, put two mana counters on this card.)\nRemove a mana counter from this card: Produce U. Spend this will only to play Ancient Magic cards.",
     "set": "Starter Deck Lapis - Water",
     "code": "SDL3-007 R",
     "rarity": "R",
@@ -25409,7 +25409,7 @@
       "Elf",
       "Six Sages"
     ],
-    "text": "Judgment GG\n3\nEnergize G.\")\nWhenever you play your second card each turn ⇒ Put a [100/100] wind Elf resonator token into your field.",
+    "text": "Judgment GG3\nEnergize G.\")\nWhenever you play your second card each turn ⇒ Put a [100/100] wind Elf resonator token into your field.",
     "set": "Starter Deck Lapis - Wind",
     "code": "SDL4-002 R",
     "rarity": "R",
@@ -25595,7 +25595,7 @@
     "racesOrTraits": [
       "Wanderer"
     ],
-    "text": "Judgment BB\n1\nEnergize B.\")\nB: This card deals 100 damage to target resonator. Put a blood counter on this card.",
+    "text": "Judgment BB1\nEnergize B.\")\nB: This card deals 100 damage to target resonator. Put a blood counter on this card.",
     "set": "Starter Deck Lapis - Darkness",
     "code": "SDL5-001 R",
     "rarity": "R",
@@ -25729,7 +25729,7 @@
     "racesOrTraits": [
       "Vampire"
     ],
-    "text": "This card cannot attack as long as there are no [+100/+100] counters on it.\nBB\n1: This card deals 200 damage to target resonator. Put a [+100/+100] counter on this card. If you J/ruler is \"Ally of the Black Moon\" or \"Eternal Vampire, Mikage Saijuro\", put two [+100/+100] counters on this card instead.",
+    "text": "This card cannot attack as long as there are no [+100/+100] counters on it.\nBB1: This card deals 200 damage to target resonator. Put a [+100/+100] counter on this card. If you J/ruler is \"Ally of the Black Moon\" or \"Eternal Vampire, Mikage Saijuro\", put two [+100/+100] counters on this card instead.",
     "set": "Starter Deck Lapis - Darkness",
     "code": "SDL5-009 SR",
     "rarity": "SR",
@@ -25995,7 +25995,7 @@
     "racesOrTraits": [
       "Ancient Magic"
     ],
-    "text": "Put a [100/100] fire Bomb resonator token with \"At the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.\" into your field.\nAwakening RR\n1: That token gains \"At the end of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.\" until end of turn.",
+    "text": "Put a [100/100] fire Bomb resonator token with \"At the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.\" into your field.\nAwakening RR1: That token gains \"At the end of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.\" until end of turn.",
     "set": "Legacy Lost",
     "code": "LEL-012 U",
     "rarity": "U",
@@ -26245,7 +26245,7 @@
     "racesOrTraits": [
       "Ancient Magic"
     ],
-    "text": "Choose one - This card deals 800 damage to target resonator. If this card was awakened, it deals 2000 damage instead; or this card deals 800 damage to your opponent. If this card was awakened, it deals 2000 damage instead.\nAwakening RR\n6",
+    "text": "Choose one - This card deals 800 damage to target resonator. If this card was awakened, it deals 2000 damage instead; or this card deals 800 damage to your opponent. If this card was awakened, it deals 2000 damage instead.\nAwakening RR6",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-026 R",
     "rarity": "R",
@@ -26259,7 +26259,7 @@
     "racesOrTraits": [
       "Seven Luminaries Mage"
     ],
-    "text": "Judgment RR\n1\nEnergize R\nMana 2 (As the game starts, put two mana counters on this card.)\nRemove a mana counter from this card: Produce R. Spend this will only to play Ancient Magic cards.",
+    "text": "Judgment RR1\nEnergize RMana 2 (As the game starts, put two mana counters on this card.)\nRemove a mana counter from this card: Produce R. Spend this will only to play Ancient Magic cards.",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-027 R",
     "rarity": "R",
@@ -26451,7 +26451,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Judgment U\n1\nEnergize UU, discard a card: Rest target resonator.",
+    "text": "Judgment U1\nEnergize UU, discard a card: Rest target resonator.",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-038 R",
     "rarity": "R",
@@ -26465,7 +26465,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "This card cannot be attacked.\nWhen this card enters your field ⇒ Draw X cards, where X is five minus the number ot cards in your hand.\nWhenever you draw a card ⇒ You gain 100 life.\nU\n1, discard a card: Return target resonator to its owner's hand.",
+    "text": "This card cannot be attacked.\nWhen this card enters your field ⇒ Draw X cards, where X is five minus the number ot cards in your hand.\nWhenever you draw a card ⇒ You gain 100 life.\nU1, discard a card: Return target resonator to its owner's hand.",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-038 R",
     "rarity": "R",
@@ -26546,7 +26546,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Shift WRU\n2\nThis card cannot attack or block.\nT, rest a recovered light J/resonator, a recovered fire J/resonator, and a recovered water J/resonator you control: Shift this card.",
+    "text": "Shift WRU2\nThis card cannot attack or block.\nT, rest a recovered light J/resonator, a recovered fire J/resonator, and a recovered water J/resonator you control: Shift this card.",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-043 SR",
     "rarity": "SR",
@@ -26644,7 +26644,7 @@
     "racesOrTraits": [
       "Ancient Magic"
     ],
-    "text": "Return all resonators to their owner's hands.\nAwakening UU\n4: You may put up to three water resonators from your hand into your field.",
+    "text": "Return all resonators to their owner's hands.\nAwakening UU4: You may put up to three water resonators from your hand into your field.",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-048 R",
     "rarity": "R",
@@ -26689,7 +26689,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "UU\n1, T: Draw a card.",
+    "text": "UU1, T: Draw a card.",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-050 C",
     "rarity": "C",
@@ -26851,7 +26851,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Judgement WG\n1\nEnergize WG.\")\nDiscard a card with Inheritance: Draw a card. Play this ability only during your turn and only once per turn.",
+    "text": "Judgement WG1\nEnergize WG.\")\nDiscard a card with Inheritance: Draw a card. Play this ability only during your turn and only once per turn.",
     "set": "Legacy Lost",
     "code": "LEL-058 R",
     "rarity": "R",
@@ -26997,7 +26997,7 @@
     "racesOrTraits": [
       "Wanderer"
     ],
-    "text": "Judgement UB\n1\nEnergize UB.\")\nWhenever you play a water chant ⇒ Target resonator gains [-X00/0] until end of turn, where X is that chant's total cost.\nWhenever you play a darkness chant ⇒ Target resonator gains [0/-X00] until end of turn, where X is that chant's total cost.",
+    "text": "Judgement UB1\nEnergize UB.\")\nWhenever you play a water chant ⇒ Target resonator gains [-X00/0] until end of turn, where X is that chant's total cost.\nWhenever you play a darkness chant ⇒ Target resonator gains [0/-X00] until end of turn, where X is that chant's total cost.",
     "set": "Legacy Lost",
     "code": "LEL-065 R",
     "rarity": "R",
@@ -27027,7 +27027,7 @@
     "racesOrTraits": [
       "Wanderer"
     ],
-    "text": "Judgment GG\n2\">. You may pay <img src=\"_images/icons/1x1.gif\" class=\"fdb-icon-g\" alt=\"g\n2 less to play this ability if you control \"Sha Wujing\" and \"Zhu Bajie\".\nEnergize GG: Search your deck for a card names \"Flying Cloud\", reveal it and put it into your hand. Then shuffle your deck.",
+    "text": "Judgment GG2\">. You may pay <img src=\"_images/icons/1x1.gif\" class=\"fdb-icon-g\" alt=\"g\n2 less to play this ability if you control \"Sha Wujing\" and \"Zhu Bajie\".\nEnergize GG: Search your deck for a card names \"Flying Cloud\", reveal it and put it into your hand. Then shuffle your deck.",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-066 R",
     "rarity": "R",
@@ -27204,7 +27204,7 @@
     "racesOrTraits": [
       "Wizard"
     ],
-    "text": "BB\n2, banish this card: You may put a Cthulhu resonator from your hand into your field.",
+    "text": "BB2, banish this card: You may put a Cthulhu resonator from your hand into your field.",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-076 R",
     "rarity": "R",
@@ -27313,7 +27313,7 @@
     "attribute": "Dark",
     "type": "Addition",
     "racesOrTraits": [],
-    "text": "You may pay 1 less to play Judgment abilities.\nBB\n2, banish this card: Your opponent discards a card.",
+    "text": "You may pay 1 less to play Judgment abilities.\nBB2, banish this card: Your opponent discards a card.",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-082 U",
     "rarity": "U",
@@ -27442,7 +27442,7 @@
     "racesOrTraits": [
       "Seven Luminaries Mage"
     ],
-    "text": "Judgment RU\n1\nEnergize RU.\")\nMana 2 (As the game starts, put two mana counters on this card.)\nRemove a mana counter from this card: Produce U. Spend this will only to play Ancient Magic cards.",
+    "text": "Judgment RU1\nEnergize RU.\")\nMana 2 (As the game starts, put two mana counters on this card.)\nRemove a mana counter from this card: Produce U. Spend this will only to play Ancient Magic cards.",
     "set": "Legacy Lost",
     "code": "LEL-087 R",
     "rarity": "R",
