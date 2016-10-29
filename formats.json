@@ -1,16 +1,5 @@
 [
     {
-        "id": 0,
-        "name": "Origin - Valhalla",
-        "clusters": [
-            0,
-            1,
-            2,
-            3
-        ],
-        "banlist": []
-    },
-    {
         "id": 1,
         "name": "Origin - Bifrost",
         "clusters": [
