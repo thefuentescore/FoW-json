@@ -99,7 +99,7 @@
     },
     {
         "id": 4,
-        "name": "Alice Cluster",
+        "name": "Alice",
         "sets": [
             "VS01",
             "SKL",
@@ -112,7 +112,7 @@
     },
     {
         "id": 5,
-        "name": "Lapis Cluster",
+        "name": "Lapis",
         "sets": [
             "SDL1",
             "SDL2",
