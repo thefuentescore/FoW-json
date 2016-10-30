@@ -123,5 +123,12 @@
             "LEL"
         ],
         "banlist": []
+    },
+    {
+        "id":6,
+        "name":"Legacy Lost Spoilers",
+        "sets":[
+            "LEL"
+        ]
     }
 ]
