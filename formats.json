@@ -1,7 +1,7 @@
 [
     {
-        "id": 1,
-        "name": "Origin - Bifrost",
+        "id": 0,
+        "name": "Origin",
         "clusters": [
             0,
             1,
@@ -11,7 +11,7 @@
         "banlist": []
     },
     {
-        "id": 2,
+        "id": 1,
         "name": "Wanderer",
         "clusters": [
             1,
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 2,
         "name": "New Frontiers",
         "clusters": [
             2,
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 3,
         "name": "Grimm Cluster",
         "clusters": [
             1
@@ -50,7 +50,7 @@
         "banlist": []
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "Alice Cluster",
         "clusters": [
             2
@@ -58,7 +58,7 @@
         "banlist": []
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "Lapis Cluster",
         "clusters": [
             3
