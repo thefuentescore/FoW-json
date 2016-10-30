@@ -24938,7 +24938,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Judgment RR2\nEnergize R (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce R.\nWhenever a resonator you control attacks ⇒ This card deals 100 damage to target resonator.",
+    "text": "Judgment RR2\nEnergize R (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce R.\")\nWhenever a resonator you control attacks ⇒ This card deals 100 damage to target resonator.",
     "set": "Starter Deck Lapis - Fire",
     "code": "SDL2-007 R",
     "rarity": "R",
@@ -24965,7 +24965,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Judgment WW1\nEnergize W (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce W.\nYou may pay the attribute cost of Fairy Tale resonators with light will.",
+    "text": "Judgment WW1\nEnergize W (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce W.\")\nYou may pay the attribute cost of Fairy Tale resonators with light will.",
     "set": "Starter Deck Lapis - Light",
     "code": "SDL1-009 R",
     "rarity": "R",
@@ -25312,7 +25312,7 @@
     "racesOrTraits": [
       "Seven Luminaries Mage"
     ],
-    "text": "Judgment UU1\nEnergize U (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce U.\nMana 2 (As the game starts, put two mana counters on this card.)\nRemove a mana counter from this card: Produce U. Spend this will only to play Ancient Magic cards.",
+    "text": "Judgment UU1\nEnergize U (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce U.\")\nMana 2 (As the game starts, put two mana counters on this card.)\nRemove a mana counter from this card: Produce U. Spend this will only to play Ancient Magic cards.",
     "set": "Starter Deck Lapis - Water",
     "code": "SDL3-007 R",
     "rarity": "R",
@@ -25409,7 +25409,7 @@
       "Elf",
       "Six Sages"
     ],
-    "text": "Judgment GG3\nEnergize G (As the same starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce G.\nWhenever you play your second card each turn ⇒ Put a [100/100] wind Elf resonator token into your field.",
+    "text": "Judgment GG3\nEnergize G (As the same starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce G.\")\nWhenever you play your second card each turn ⇒ Put a [100/100] wind Elf resonator token into your field.",
     "set": "Starter Deck Lapis - Wind",
     "code": "SDL4-002 R",
     "rarity": "R",
@@ -25595,7 +25595,7 @@
     "racesOrTraits": [
       "Wanderer"
     ],
-    "text": "Judgment BB1\nEnergize B (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce B.\nB: This card deals 100 damage to target resonator. Put a blood counter on this card.",
+    "text": "Judgment BB1\nEnergize B (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce B.\")\nB: This card deals 100 damage to target resonator. Put a blood counter on this card.",
     "set": "Starter Deck Lapis - Darkness",
     "code": "SDL5-001 R",
     "rarity": "R",
@@ -26864,7 +26864,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Judgement WG1\nEnergize WG (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce W or G.\nDiscard a card with Inheritance: Draw a card. Play this ability only during your turn and only once per turn.",
+    "text": "Judgement WG1\nEnergize WG (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce W or G.\")\nDiscard a card with Inheritance: Draw a card. Play this ability only during your turn and only once per turn.",
     "set": "Legacy Lost",
     "code": "LEL-058 R",
     "rarity": "R",
@@ -27010,7 +27010,7 @@
     "racesOrTraits": [
       "Wanderer"
     ],
-    "text": "Judgement UB1\nEnergize UB (As the game starts, if you're not the player going first, you get a will coin with \"Banish this coin: Produce U or B.\nWhenever you play a water chant ⇒ Target resonator gains [-X00/0] until end of turn, where X is that chant's total cost.\nWhenever you play a darkness chant ⇒ Target resonator gains [0/-X00] until end of turn, where X is that chant's total cost.",
+    "text": "Judgement UB1\nEnergize UB (As the game starts, if you're not the player going first, you get a will coin with \"Banish this coin: Produce U or B.\")\nWhenever you play a water chant ⇒ Target resonator gains [-X00/0] until end of turn, where X is that chant's total cost.\nWhenever you play a darkness chant ⇒ Target resonator gains [0/-X00] until end of turn, where X is that chant's total cost.",
     "set": "Legacy Lost",
     "code": "LEL-065 R",
     "rarity": "R",
@@ -27152,7 +27152,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Judgment WR1\nEnergize WR (As the game starts, if you are not player going first, you get a will coin with \"Banish this coin: Produce W or R.\nAt the end of your turn ⇒ Remove target rested resonator you control from the game. Then put it into its owner's field.",
+    "text": "Judgment WR1\nEnergize WR (As the game starts, if you are not player going first, you get a will coin with \"Banish this coin: Produce W or R.\")\nAt the end of your turn ⇒ Remove target rested resonator you control from the game. Then put it into its owner's field.",
     "set": "Legacy Lost",
     "code": "LEL-071 R",
     "rarity": "R",
@@ -27446,7 +27446,7 @@
     "racesOrTraits": [
       "Human"
     ],
-    "text": "Judgment B\nx\nEnergize B (As the game starts, if you arre not the player going first, you get a will coin with \"Banish this coin: Produce B.",
+    "text": "Judgment B\nx\nEnergize B (As the game starts, if you arre not the player going first, you get a will coin with \"Banish this coin: Produce B.\")",
     "set": "Curse of the Frozen Casket",
     "code": "CFC-084 R",
     "rarity": "R",
@@ -27533,7 +27533,7 @@
     "racesOrTraits": [
       "Seven Luminaries Mage"
     ],
-    "text": "Judgment RU1\nEnergize RU (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce R or U.\nMana 2 (As the game starts, put two mana counters on this card.)\nRemove a mana counter from this card: Produce R or U. Spend this will only to play Ancient Magic cards.",
+    "text": "Judgment RU1\nEnergize RU (As the game starts, if you are not the player going first, you get a will coin with \"Banish this coin: Produce R or U.\")\nMana 2 (As the game starts, put two mana counters on this card.)\nRemove a mana counter from this card: Produce R or U. Spend this will only to play Ancient Magic cards.",
     "set": "Legacy Lost",
     "code": "LEL-087 R",
     "rarity": "R",
